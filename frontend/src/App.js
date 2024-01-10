@@ -1,22 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <img src="https://st5.depositphotos.com/63867448/66258/i/450/depositphotos_662586294-stock-photo-strawberry-biscuit-white-chocolate-birthday.jpg" alt="Strawberry Biscuit" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          MakeTheCake
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+          Three pastry chefs are making a cake
+        </p>
       </header>
     </div>
   );
